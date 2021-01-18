@@ -6,7 +6,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## 第一次使用
+      ## 第一次使用StackBit
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do

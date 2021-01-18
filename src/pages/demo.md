@@ -2,7 +2,7 @@
 title: 测试页面
 excerpt: 第一次使用
 sections:
-  - title: lorem-ipsum
+  - title: 第一次使用
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

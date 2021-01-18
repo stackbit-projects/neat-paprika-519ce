@@ -1,6 +1,6 @@
 ---
 title: 测试页面
-excerpt: lorem-ipsum
+excerpt: 第一次使用
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum

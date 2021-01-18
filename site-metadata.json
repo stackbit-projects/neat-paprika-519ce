@@ -2,7 +2,7 @@
     "description": "A vanilla theme for Stackbit",
     "header": {
         "title": "第一次使用",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
